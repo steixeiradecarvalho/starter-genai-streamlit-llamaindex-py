@@ -18,5 +18,5 @@ To ensure your successful deployment, set the following environment variables:
 
 ```bash
 # Get it from https://platform.openai.com/account/api-keys
-OPENAI_API_KEY=<YOUR_API_KEY>
+OPENAI_API_KEY=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
 ```
